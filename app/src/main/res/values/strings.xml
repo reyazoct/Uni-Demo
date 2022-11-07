@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">unidemo</string>
+    <string name="home_text">India\'s Credit\nRevolution is here.\nPay 1/3rd. Anywhere</string>
+    <string name="home_text_two">With Great Flexibility,\nComes Great Power.</string>
+    <string name="home_text_three">Uni Pay 1/3rd Card</string>
+    <string name="home_text_four">Split your spends into 3 parts over 3 months at\nno extra charges. And, get 1% rewards if you pay in 1 month.</string>
+    <string name="know_more">Know More</string>
+    <string name="home_text_five">Uni Pay ½ Card</string>
+    <string name="home_text_six">Smart Payments,\nDelightful Rewards.</string>
+    <string name="home_text_seven">Split your spends in 2. Or,\npay in 1 month &amp; get 1.2% rewards!</string>
+    <string name="home_text_eight">Split your payments,\nanywhere and\neverywhere.\nEarn the best rewards. Enjoy round the\nclock WhatsApp\nsupport. It\ntakes just 5 minutes to get\nyour card, and it’s lifetime\nfree: no\njoining fee, no annual\ncharges.</string>
+    <string name="home_text_nine">Split your payments,\nanywhere and\neverywhere.</string>
+    <string name="home_text_ten">Accepted at 99.9% of\nmerchants.</string>
+    <string name="home_text_eleven">Earn rewards every\ntime you Pay in Full.</string>
+    <string name="home_text_twelve">Soon, get up to 5X value on\nUni Store.</string>
+    <string name="home_text_thirteen">Indiqube Sigma No.3/B, Nexus\nKoramangala 3rd Block SBI Colony,\nKoramangala, Bengaluru, Karnataka\n560034\n\nContact Us: 080 6821682\nEmail: care@uni.club</string>
+    <string name="apply_now">Apply now</string>
+    <string name="pay_1_by_3_card">Pay ⅓rd Card</string>
+    <string name="pay_1_by_2_card">Pay ½ Card</string>
+</resources>

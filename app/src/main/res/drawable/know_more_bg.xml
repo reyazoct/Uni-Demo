@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) By Saveo Technologies Pvt. Ltd.
+  ~ Project: Saveo Pharmacy App
+  ~ Created Date: 27 Dec 2021 :: 08:36 PM
+  ~ Developer: reyaz
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:color="#BCEFE7"
+        android:width="1dp"/>
+
+    <corners android:radius="32dp" />
+</shape>
